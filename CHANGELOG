@@ -1,0 +1,12 @@
+Osiris 2.1 Poller
+	Monitoring
+		- Centreon Engine 1.4.14
+		- Centreon Broker 2.8.2
+		- Centreon SNMPTrap handler
+		- Selenium 2.46
+	OCS Inventory
+		- ToDo: Fusion Inventory Agent 2.3.15
+	Syslog & Logmanagement
+		- Rsyslog 8.11.0
+	Others
+		- SL 6.6
