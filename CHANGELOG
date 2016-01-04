@@ -1,3 +1,9 @@
+Osiris 2.1.1 Polloer
+	Monitoring
+		- Upgrade Centreon Engine 1.15.0
+		- Upgrade Centreon Broker 2.11.0
+	Syslog & Logmanagement
+		- Upgrade Rsyslog 8.15.0
 Osiris 2.1 Poller
 	Monitoring
 		- Centreon Engine 1.4.14
@@ -9,4 +15,4 @@ Osiris 2.1 Poller
 	Syslog & Logmanagement
 		- Rsyslog 8.11.0
 	Others
-		- SL 6.6
+		- SL 6.7
