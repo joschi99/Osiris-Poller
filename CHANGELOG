@@ -1,4 +1,7 @@
-Osiris 2.1.1 Polloer
+Osiris 2.2.0 Poller
+	System
+		- Upgrade PHP 5.4.45
+Osiris 2.1.1 Poller
 	Monitoring
 		- Upgrade Centreon Engine 1.15.0
 		- Upgrade Centreon Broker 2.11.0
