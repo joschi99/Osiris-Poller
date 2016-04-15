@@ -1,6 +1,6 @@
 Osiris 2.2.0 Poller
 	Monitoring
-		- Upgrade Centreon Core 2.7.3
+		- Upgrade Centreon Core 2.7.4
 		- Upgrade Centreon Broker 2.11.3
 		- Upgrade Selenium 2.50
 	Syslog & Logmanagement
