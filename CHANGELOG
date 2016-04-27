@@ -2,8 +2,11 @@ Osiris 2.2.1 Poller
 	Monitoring
 		- Upgrade Centreon Broker 2.11.4
 		- Upgrade Tweepy 3.5.0 (Twitter notification)
+		- Upgrade Selenium 2.53
 	Syslog & Logmanagement
 		- Upgrade Rsyslog 8.18.0
+	System
+		- Upgrade Firefox 45.1
 Osiris 2.2.0 Poller
 	Monitoring
 		- Upgrade Centreon Core 2.7.4
