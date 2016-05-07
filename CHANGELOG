@@ -7,6 +7,7 @@ Osiris 2.2.1 Poller
 		- Upgrade Rsyslog 8.18.0
 	System
 		- Upgrade Firefox 45.1
+		- New Webmin 1.791
 Osiris 2.2.0 Poller
 	Monitoring
 		- Upgrade Centreon Core 2.7.4
