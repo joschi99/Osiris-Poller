@@ -1,0 +1,4 @@
+User_Alias OSIRIS=apache,nagios,centreon,centreon-engine,centreon-broker
+Cmnd_Alias YOWSUP-CLI = /usr/bin/yowsup-cli
+
+OSIRIS ALL = NOPASSWD: YOWSUP-CLI
