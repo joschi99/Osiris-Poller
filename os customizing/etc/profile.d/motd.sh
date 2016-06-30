@@ -3,10 +3,10 @@
 echo -e "
 ##################################
 #
-# Osiris 2.2.1 NMS Poller
+# Osiris 2.3.0 NMS Poller
 #
 # All rights reserved
-# (c)2014, BI-S des Jochen Platzgummer
+# (c)2016 PGUM GmbH/Srl
 # info@bi-s.it, support@bi-s.it
 # www.bi-s.it
 # 
