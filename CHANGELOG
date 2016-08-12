@@ -2,7 +2,11 @@ Osiris 2.3.0 Poller
 	Monitoring
 		- Upgrade Centreon 2.7.6
 		- Upgrade Centreon Broker 2.11.5
-		- upgrade Yowsup2 2.5.0
+		- Upgrade Yowsup2 2.5.0
+	Inventory
+		- New Fusion Inventory Agent 2.3.18
+	Syslog & Logmanagement
+		- Upgrade Rsyslog 8.20.0
 	System
 		- SL 6.8
 		- Upgrade glances 2.6.2
