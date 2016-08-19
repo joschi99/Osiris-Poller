@@ -1,8 +1,9 @@
-Osiris 2.3.0 Poller
+i-Vertix 2016 Poller - 2.3.0
 	Monitoring
 		- Upgrade Centreon 2.7.6
 		- Upgrade Centreon Broker 2.11.5
 		- Upgrade Yowsup2 2.5.0
+		- Upgrade Selenium 2.53.1
 	Inventory
 		- New Fusion Inventory Agent 2.3.18
 	Syslog & Logmanagement
@@ -10,6 +11,7 @@ Osiris 2.3.0 Poller
 	System
 		- SL 6.8
 		- Upgrade glances 2.6.2
+		- Upgrade Webmin 1.810
 Osiris 2.2.1 Poller
 	Monitoring
 		- Upgrade Centreon Broker 2.11.4
