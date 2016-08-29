@@ -3,15 +3,16 @@
 #
 # startup.sh - Passt issue an
 #
-# Copyright (c) 2016 Osiris 2.2.1 (Contact: info@bi-s.it)
+# Copyright (c) 2016 i-Vertix NMS (info@pgum.eu)
 #
 # Development:
 #  Jochen Platzgummer
 #
-# Version 1.0
+# Version 1.1
 #
 # Changelog
-#       13.05.2016: Initial version
+#	20.08.2016: Update PGUM GmbH
+#	13.05.2016: Initial version
 ###############################################################################
 
 HOME=/opt/bi-s/software/scripts/startup
