@@ -1,6 +1,6 @@
 i-Vertix 2016 Poller - 2.3.0
 	Monitoring
-		- Upgrade Centreon 2.7.6
+		- Upgrade Centreon 2.7.7
 		- Upgrade Centreon Broker 2.11.5
 		- Upgrade Yowsup2 2.5.0
 		- Upgrade Selenium 2.53.1
