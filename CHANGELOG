@@ -1,7 +1,7 @@
 i-Vertix 2017 Poller - 2.4.0
 	Monitoring
-		- Upgrade Centreon 2.8.1
-		- Upgrade Centreon Broker 3.0.2
+		- Upgrade Centreon 2.8.2
+		- Upgrade Centreon Broker 3.0.3
 		- Upgrade Centreon Engine 1.6.2
 	Syslog, Log- & Datamanagement
 		- Upgrade RSyslog 8.23.0
